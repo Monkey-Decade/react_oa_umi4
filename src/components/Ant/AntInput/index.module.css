@@ -1,0 +1,19 @@
+.inputItem {
+  display: inline-block;
+  margin-right: 48px;
+  margin-bottom: 24px;
+  box-sizing: border-box;
+}
+
+.inputLabel {
+  font-family: 'Microsoft YaHei';
+  font-weight: 400;
+  font-size: 14px;
+  color: #1e1e1e;
+  line-height: 16px;
+  margin-right: 16px;
+  white-space: nowrap;
+  min-width: 56px;
+  text-align: right;
+  display: inline-block;
+}

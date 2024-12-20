@@ -29,6 +29,11 @@ export default defineConfig({
       path: '/table',
       component: './Table',
     },
+    {
+      name: 'Antd 组件',
+      path: '/antd',
+      component: './AntdDemo',
+    },
   ],
   npmClient: 'yarn',
 });

@@ -1,0 +1,28 @@
+.searchContainer {
+  /* margin: 0 24px; */
+  padding: 24px 24px 0;
+  background: #fff;
+  border-radius: 6px;
+}
+
+.title {
+  font-family: 'Microsoft YaHei';
+  font-weight: 600;
+  font-size: 24px;
+  color: #1e1e1e;
+  line-height: 28px;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 16px;
+}
+
+.searchForm {
+  box-sizing: border-box;
+}
+
+.tableContainer {
+  margin: 24px;
+  padding: 24px 0 0 24px;
+  background: #fff;
+  border-radius: 6px;
+}
