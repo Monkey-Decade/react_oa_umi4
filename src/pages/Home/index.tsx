@@ -1,4 +1,3 @@
-import LineChart from '@/components/Echarts/Line';
 import Guide from '@/components/Guide';
 import { trim } from '@/utils/format';
 import { PageContainer } from '@ant-design/pro-components';
@@ -111,7 +110,6 @@ const HomePage: React.FC = () => {
       <div className={styles.container}>
         <Guide name={trim(name)} />
         <ReactEcharts option={option} />
-        <LineChart name={'衬衫的价格'} />
       </div>
     </PageContainer>
   );
